@@ -4,5 +4,5 @@
 
 @section('content')
 <h1>Welcome to Railsspace</h1>
-<p>Railsspace is a social network written in Laravel.</p>
+<p>This is the social network you have been waiting for.</p>
 @endsection
